@@ -63,7 +63,7 @@ with open('models/modelo.pkl', 'rb') as file:
 ```
 
 ## Vídeo Explicativo
-O vídeo explicando o desenvolvimento do projeto pode ser acessado [aqui](link-do-video).
+O vídeo explicando o desenvolvimento do projeto pode ser acessado [aqui]([link-do-video](https://drive.google.com/file/d/12MeH2xh0Muozra-rAmyiWAya-XTjTUW9/view?usp=sharing)).
 
 ## Contato
 Caso tenha dúvidas ou sugestões, entre em contato via felipeferreira3146@gmail.com.
