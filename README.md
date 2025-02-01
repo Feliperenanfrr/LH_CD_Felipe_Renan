@@ -8,7 +8,6 @@ Este projeto realiza análise de dados e modelagem preditiva em um dataset de al
 /
 ├── indicum_dataset.csv
 ├── indicum_notebook.ipynb 
-├── modelo.pkl
 ├── README.md
 └── requirements.txt
 ```
@@ -55,7 +54,7 @@ Para um apartamento com as seguintes características:
 O modelo estima um preço de **$201.23**.
 
 ## Modelo Treinado
-O modelo treinado foi salvo no formato `.pkl` e pode ser carregado da seguinte forma:
+O modelo treinado foi salvo no formato `.pkl` e pode ser carregado da seguinte forma(o arquivo .pkl está disponível no arquivo zipado enviado pelo email):
 ```python
 import pickle
 with open('models/modelo.pkl', 'rb') as file:
