@@ -16,11 +16,11 @@ Este projeto realiza análise de dados e modelagem preditiva em um dataset de al
 ## Instalação e Execução
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Feliperenanfrr/lighthouse-indicum.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd lighthouse-indicum
    ```
 3. Crie um ambiente virtual e instale as dependências:
    ```bash
